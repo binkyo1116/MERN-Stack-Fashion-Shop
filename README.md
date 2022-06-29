@@ -59,16 +59,3 @@ Install dependencies with npm
 - Carousel images: [Goya Fashion](https://goya.everthemes.com/demo-fashion/)  
 - Products image: [QOS](https://demo2.wpopal.com/qos/home-8/)
 
-
-
-
-## Author
-
-[@phongduybui](https://github.com/phongduybui)
-
-  
-## Feedback
-
-If you have any feedback, please reach out to [me](mailto:buiduyphong921@gmail.com)
-
-  
