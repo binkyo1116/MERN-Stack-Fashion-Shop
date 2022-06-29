@@ -1,0 +1,28 @@
+.thumbs.animated {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+}
+
+.carousel .thumb.selected,
+.carousel .thumb:hover {
+  border: 3px solid #ccc !important;
+}
+
+.slide-product-image {
+  position: relative;
+  padding-top: 133%; //aspect ratio 3:4
+  & > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+}
+
+.product-screen-carousel {
+  & .carousel .thumb img {
+    height: 100%;
+  }
+}

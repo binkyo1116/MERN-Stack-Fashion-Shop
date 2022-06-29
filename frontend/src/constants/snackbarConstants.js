@@ -1,0 +1,2 @@
+export const SNACKBAR_OPEN = 'SNACKBAR_OPEN';
+export const SNACKBAR_CLEAR = 'SNACKBAR_CLEAR';
